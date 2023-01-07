@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\Odeme\Odeme\bin\Debug\net6.0\Odeme.exe
+C:\Users\acer\Desktop\Odeme\Odeme\bin\Debug\net6.0\Odeme.deps.json
+C:\Users\acer\Desktop\Odeme\Odeme\bin\Debug\net6.0\Odeme.runtimeconfig.json
+C:\Users\acer\Desktop\Odeme\Odeme\bin\Debug\net6.0\Odeme.dll
+C:\Users\acer\Desktop\Odeme\Odeme\bin\Debug\net6.0\Odeme.pdb
+C:\Users\acer\Desktop\Odeme\Odeme\obj\Debug\net6.0\Odeme.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Odeme\Odeme\obj\Debug\net6.0\Odeme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\Odeme\Odeme\obj\Debug\net6.0\Odeme.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Odeme\Odeme\obj\Debug\net6.0\Odeme.AssemblyInfo.cs
+C:\Users\acer\Desktop\Odeme\Odeme\obj\Debug\net6.0\Odeme.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Odeme\Odeme\obj\Debug\net6.0\Odeme.dll
+C:\Users\acer\Desktop\Odeme\Odeme\obj\Debug\net6.0\refint\Odeme.dll
+C:\Users\acer\Desktop\Odeme\Odeme\obj\Debug\net6.0\Odeme.pdb
+C:\Users\acer\Desktop\Odeme\Odeme\obj\Debug\net6.0\Odeme.genruntimeconfig.cache
+C:\Users\acer\Desktop\Odeme\Odeme\obj\Debug\net6.0\ref\Odeme.dll
